@@ -10,6 +10,9 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 //this is my 2nd commit - Nuwan
+
+//Updates from Git Hub
+//1st update from Github
 public class FirstTestNGFile {
 	WebDriver driver;
 	public String url="http://demo.guru99.com/test/newtours/";
